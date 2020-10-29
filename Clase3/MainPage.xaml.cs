@@ -20,6 +20,7 @@ namespace Clase3
             string user = txtUser.Text;
             string pass = txtPass.Text;
 
+            //definicion de variables
             string user_val = "uisrael";
             string pass_val = "uisrael2020";
             
